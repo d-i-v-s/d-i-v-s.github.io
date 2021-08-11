@@ -1,7 +1,7 @@
 
 @font-face {
-    font-family: myFont;
-    src: url(../assets/pixelfont.ttf);
+    font-family: pixearg;
+    src: url(../assets/PIXEARG_.TTF);
 }
 
 html{
@@ -10,7 +10,7 @@ html{
 
 body {
     color: black;
-    font-family: myFont;
+    font-family: pixearg;
     font-size: 200%;
 }
 
