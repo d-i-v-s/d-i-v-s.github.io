@@ -4,6 +4,10 @@
     src: url(../assets/font.ttf);
 }
 
+html{
+    image-rendering: pixelated;
+}
+
 body {
     color: black;
     font-family: myFont;
