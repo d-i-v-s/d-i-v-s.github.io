@@ -7,7 +7,7 @@ html {
   cursor: url(../assets/cursor.png), auto;
   color: black;
   font-family: pixearg;
-  font-size: 200%;
+  font-size: 150%;
 }
 
 body {
@@ -60,7 +60,7 @@ section {
 }
 
 img {
-  width: 40vw;
+  width: 25vw;
   -webkit-user-drag: none;
   user-select: none;
 }
@@ -72,10 +72,6 @@ img {
 ::selection {
   background: black;
   color: white;
-}
-
-p {
-  font-size: 5vw;
 }
 
 /*# sourceMappingURL=indexStyle.css.map */
