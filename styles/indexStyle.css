@@ -55,8 +55,12 @@ section {
   justify-content: center;
 }
 
+.cont {
+  margin: 5%;
+}
+
 img {
-  width: 25vw;
+  width: 40vw;
   -webkit-user-drag: none;
   user-select: none;
 }
@@ -70,10 +74,8 @@ img {
   color: white;
 }
 
-@media only screen and (max-width: 600px) {
-  section p {
-    font-size: 5vw;
-  }
+p {
+  font-size: 5vw;
 }
 
 /*# sourceMappingURL=indexStyle.css.map */
